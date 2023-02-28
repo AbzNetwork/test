@@ -1,0 +1,29 @@
+{
+  "originalUrl": "https://sorare.com/football",
+  "title": "The free-to-play NFT Fantasy Football Game - Sorare: Football",
+  "archiveTime": "2023-02-28T03:31:12.610Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "stylesheet_0.css": "https://sorare.com/assets/index.4e5ee404.css",
+    "stylesheet_1.css": "https://sorare.com/assets/index.08893557.css",
+    "images/17.png": "https://sorare.com/assets/coin.aa9680c3.png",
+    "images/18.png": "https://sorare.com/assets/experiences.9533706b.png",
+    "images/19.png": "https://sorare.com/assets/jerseys.b5ae6900.png",
+    "images/20.png": "https://sorare.com/assets/tickets.96cddb4d.png",
+    "images/21.png": "https://sorare.com/assets/private-league.bf75a969.png",
+    "images/11.jpg": "https://frontend-assets.sorare.com/home/lg/top-1.jpg",
+    "images/12.png": "https://frontend-assets.sorare.com/football/leagues-branding/yztkiy/logo.png",
+    "images/13.png": "https://frontend-assets.sorare.com/football/leagues-branding/laliga/logo.png",
+    "images/14.png": "https://frontend-assets.sorare.com/football/leagues-branding/bundesliga/logo.png",
+    "images/15.png": "https://frontend-assets.sorare.com/football/leagues-branding/serie-a/logo.png",
+    "images/16.png": "https://frontend-assets.sorare.com/football/leagues-branding/french-league/logo.png",
+    "fonts/0.woff2": "https://frontend-assets.sorare.com/fonts/ApercuPro-Regular.woff2",
+    "fonts/1.woff2": "https://frontend-assets.sorare.com/fonts/ApercuPro-Bold.woff2",
+    "fonts/2.woff2": "https://frontend-assets.sorare.com/fonts/apercu-black-italic-pro.woff2",
+    "fonts/3.otf": "https://sorare.com/assets/DrukWide-Bold.0ea32bed.otf",
+    "fonts/4.woff2": "https://frontend-assets.sorare.com/fonts/DrukTextWide-Bold.woff2",
+    "fonts/5.woff2": "https://frontend-assets.sorare.com/fonts/Druk-CondSuper.woff2",
+    "fonts/6.woff2": "https://frontend-assets.sorare.com/fonts/DrukWide-Super.woff2",
+    "fonts/7.woff2": "https://frontend-assets.sorare.com/fonts/Romie-Trial-Medium.woff2"
+  }
+}
